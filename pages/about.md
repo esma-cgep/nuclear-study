@@ -1,6 +1,6 @@
 # Welcome
 
-Here you can explore [results](/tusm-main/results) generated using [TUSM](https://github.com/esma-cgep/tusm)
+Here you can explore [results](/nuclear-study/results) generated using [TUSM](https://github.com/esma-cgep/tusm)
 
 Last update: July 24th, 2023
 
