@@ -1,14 +1,8 @@
 {
-  "base_ts40-ira-nuco_0001": "IRA NucO",
-  "base_ts40-ira-nuco_0002": "IRA NucO NZE2035",
-  "base_ts40-ira-nuco_0003": "IRA NucO NZE2050",
-  "base_ts40-ira-nuco_0004": "IRA NucO CB",
-  "base_ts40-ira_0001": "IRA",
-  "base_ts40-ira_0002": "IRA NZE2035",
-  "base_ts40-ira_0003": "IRA NZE2050",
-  "base_ts40-ira_0004": "IRA CB",
-  "base_ts40_0001": "Reference",
-  "base_ts40_0002": "Reference NZE2035",
-  "base_ts40_0003": "Reference NZE2050",
-  "base_ts40_0004": "Reference CB"
+  "base_ts1-itc_0001": "ITC",
+  "base_ts1-ptc_0001": "PTC",
+  "base_ts1_0001": "Reference",
+  "base_ts1_0002": "Reference NZE2035",
+  "base_ts1_0003": "Reference NZE2050",
+  "base_ts1_0004": "Reference CB"
 }

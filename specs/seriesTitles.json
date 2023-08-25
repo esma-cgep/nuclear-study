@@ -1,4 +1,14 @@
 {
+  "Cost_Act": "Cost_Act",
+  "Cost_Flo": "Cost_Flo",
+  "Cost_Flox": "Cost_Flox",
+  "Cost_Fom": "Cost_Fom",
+  "Cost_Inv": "Cost_Inv",
+  "Cost_ire": "Cost_ire",
+  "ELCC": "ELCC",
+  "ELE": "ELE",
+  "ENV_CO2_ELC": "ENV_CO2_ELC",
+  "LUMPINV": "LUMPINV",
   "PRC_ELC_BSL": "Biomass",
   "PRC_ELC_COA": "Coal",
   "PRC_ELC_GAS": "Natural Gas",
@@ -9,5 +19,6 @@
   "PRC_ELC_SPV": "Solar PV",
   "PRC_ELC_STH": "Solar Thermal",
   "PRC_ELC_WNF": "Wind Offshore",
-  "PRC_ELC_WNO": "Wind Onshore"
+  "PRC_ELC_WNO": "Wind Onshore",
+  "STG": "STG"
 }

@@ -1,50 +1,26 @@
 [
   {
-    "name": "base_ts40_0001",
-    "variants": [{ "name": "base_ts40_0001", "specs": null }]
+    "name": "base_ts1_0001",
+    "variants": [{ "name": "base_ts1_0001", "specs": null }]
   },
   {
-    "name": "base_ts40_0002",
-    "variants": [{ "name": "base_ts40_0002", "specs": null }]
+    "name": "base_ts1_0002",
+    "variants": [{ "name": "base_ts1_0002", "specs": null }]
   },
   {
-    "name": "base_ts40_0003",
-    "variants": [{ "name": "base_ts40_0003", "specs": null }]
+    "name": "base_ts1_0003",
+    "variants": [{ "name": "base_ts1_0003", "specs": null }]
   },
   {
-    "name": "base_ts40_0004",
-    "variants": [{ "name": "base_ts40_0004", "specs": null }]
+    "name": "base_ts1_0004",
+    "variants": [{ "name": "base_ts1_0004", "specs": null }]
   },
   {
-    "name": "base_ts40-ira_0001",
-    "variants": [{ "name": "base_ts40-ira_0001", "specs": null }]
+    "name": "base_ts1-itc_0001",
+    "variants": [{ "name": "base_ts1-itc_0001", "specs": null }]
   },
   {
-    "name": "base_ts40-ira_0002",
-    "variants": [{ "name": "base_ts40-ira_0002", "specs": null }]
-  },
-  {
-    "name": "base_ts40-ira_0003",
-    "variants": [{ "name": "base_ts40-ira_0003", "specs": null }]
-  },
-  {
-    "name": "base_ts40-ira_0004",
-    "variants": [{ "name": "base_ts40-ira_0004", "specs": null }]
-  },
-  {
-    "name": "base_ts40-ira-nuco_0001",
-    "variants": [{ "name": "base_ts40-ira-nuco_0001", "specs": null }]
-  },
-  {
-    "name": "base_ts40-ira-nuco_0002",
-    "variants": [{ "name": "base_ts40-ira-nuco_0002", "specs": null }]
-  },
-  {
-    "name": "base_ts40-ira-nuco_0003",
-    "variants": [{ "name": "base_ts40-ira-nuco_0003", "specs": null }]
-  },
-  {
-    "name": "base_ts40-ira-nuco_0004",
-    "variants": [{ "name": "base_ts40-ira-nuco_0004", "specs": null }]
+    "name": "base_ts1-ptc_0001",
+    "variants": [{ "name": "base_ts1-ptc_0001", "specs": null }]
   }
 ]
