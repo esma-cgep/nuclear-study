@@ -1,26 +1,74 @@
 [
   {
-    "name": "base_ts1_0001",
-    "variants": [{ "name": "base_ts1_0001", "specs": null }]
+    "name": "base_ts40_0001",
+    "variants": [{ "name": "base_ts40_0001", "specs": null }]
   },
   {
-    "name": "base_ts1_0002",
-    "variants": [{ "name": "base_ts1_0002", "specs": null }]
+    "name": "base_ts40_0002",
+    "variants": [{ "name": "base_ts40_0002", "specs": null }]
   },
   {
-    "name": "base_ts1_0003",
-    "variants": [{ "name": "base_ts1_0003", "specs": null }]
+    "name": "base_ts40_0003",
+    "variants": [{ "name": "base_ts40_0003", "specs": null }]
   },
   {
-    "name": "base_ts1_0004",
-    "variants": [{ "name": "base_ts1_0004", "specs": null }]
+    "name": "base_ts40_0004",
+    "variants": [{ "name": "base_ts40_0004", "specs": null }]
   },
   {
-    "name": "base_ts1-itc_0001",
-    "variants": [{ "name": "base_ts1-itc_0001", "specs": null }]
+    "name": "base_ts40-nucm_0001",
+    "variants": [{ "name": "base_ts40-nucm_0001", "specs": null }]
   },
   {
-    "name": "base_ts1-ptc_0001",
-    "variants": [{ "name": "base_ts1-ptc_0001", "specs": null }]
+    "name": "base_ts40-nucm_0002",
+    "variants": [{ "name": "base_ts40-nucm_0002", "specs": null }]
+  },
+  {
+    "name": "base_ts40-nucm_0003",
+    "variants": [{ "name": "base_ts40-nucm_0003", "specs": null }]
+  },
+  {
+    "name": "base_ts40-nucm_0004",
+    "variants": [{ "name": "base_ts40-nucm_0004", "specs": null }]
+  },
+  {
+    "name": "base_ts40-nuco_0001",
+    "variants": [{ "name": "base_ts40-nuco_0001", "specs": null }]
+  },
+  {
+    "name": "base_ts40-nuco_0002",
+    "variants": [{ "name": "base_ts40-nuco_0002", "specs": null }]
+  },
+  {
+    "name": "base_ts40-nuco_0003",
+    "variants": [{ "name": "base_ts40-nuco_0003", "specs": null }]
+  },
+  {
+    "name": "base_ts40-itc_0001",
+    "variants": [{ "name": "base_ts40-itc_0001", "specs": null }]
+  },
+  {
+    "name": "base_ts40-itc_0002",
+    "variants": [{ "name": "base_ts40-itc_0002", "specs": null }]
+  },
+  {
+    "name": "base_ts40-itc_0003",
+    "variants": [{ "name": "base_ts40-itc_0003", "specs": null }]
+  },
+  {
+    "name": "base_ts40-itc_0004",
+    "variants": [{ "name": "base_ts40-itc_0004", "specs": null }]
+  },
+  {
+    "name": "base_ts40-ptc_0001",
+    "variants": [{ "name": "base_ts40-ptc_0001", "specs": null }]
+  },
+  {
+    "name": "base_ts40-ptc_0002",
+    "variants": [{ "name": "base_ts40-ptc_0002", "specs": null }]
+  },
+  {
+    "name": "base_ts40-ptc_0003",
+    "variants": [{ "name": "base_ts40-ptc_0003", "specs": null }]
   }
 ]

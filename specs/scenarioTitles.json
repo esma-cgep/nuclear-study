@@ -1,8 +1,20 @@
 {
-  "base_ts1-itc_0001": "ITC",
-  "base_ts1-ptc_0001": "PTC",
-  "base_ts1_0001": "Reference",
-  "base_ts1_0002": "Reference NZE2035",
-  "base_ts1_0003": "Reference NZE2050",
-  "base_ts1_0004": "Reference CB"
+  "base_ts40-itc_0001": "ITC",
+  "base_ts40-itc_0002": "ITC NZE2035",
+  "base_ts40-itc_0003": "ITC NZE2050",
+  "base_ts40-itc_0004": "ITC CB",
+  "base_ts40-nucm_0001": "Moderate Nuclear",
+  "base_ts40-nucm_0002": "Moderate Nuclear NZE2035",
+  "base_ts40-nucm_0003": "Moderate Nuclear NZE2050",
+  "base_ts40-nucm_0004": "Moderate Nuclear CB",
+  "base_ts40-nuco_0001": "Optimistic Nuclear",
+  "base_ts40-nuco_0002": "Optimistic Nuclear NZE2035",
+  "base_ts40-nuco_0003": "Optimistic Nuclear NZE2050",
+  "base_ts40-ptc_0001": "PTC",
+  "base_ts40-ptc_0002": "PTC NZE2035",
+  "base_ts40-ptc_0003": "PTC NZE2050",
+  "base_ts40_0001": "Reference",
+  "base_ts40_0002": "Reference NZE2035",
+  "base_ts40_0003": "Reference NZE2050",
+  "base_ts40_0004": "Reference CB"
 }
