@@ -1,0 +1,7 @@
+{
+  "headerNavLinks": [
+    { "to": "about", "text": "About" },
+    { "to": "scenarios", "text": "Scenarios" },
+    { "to": "results", "text": "Results" }
+  ]
+}
