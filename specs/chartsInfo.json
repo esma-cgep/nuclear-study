@@ -29,7 +29,7 @@
       "#1AC9E6"
     ],
     "unit": "PJ",
-    "maxY": 44740,
+    "maxY": 35831,
     "minY": 0
   },
   "sys-primary-energy-demand": {
@@ -64,14 +64,13 @@
       "#1AC9E6"
     ],
     "unit": "PJ",
-    "maxY": 44740,
+    "maxY": 36029,
     "minY": -398
   },
   "sys-costs-annual": {
     "seriesNames": [
       "Cost_Act",
       "Cost_Flo",
-      "Cost_Flox",
       "Cost_Fom",
       "Cost_Inv",
       "Cost_ire"
@@ -79,14 +78,13 @@
     "colorScale": [
       "#78B794",
       "#B639AD",
-      "#4E3F6C",
       "#D02FAA",
       "#32A433",
       "#274177"
     ],
     "unit": "MUSD",
-    "maxY": 295484,
-    "minY": -219003
+    "maxY": 188259,
+    "minY": -15929
   },
   "elc-price-electricity-max": {
     "seriesNames": [
@@ -153,7 +151,7 @@
       "#83BE87"
     ],
     "unit": "PJ",
-    "maxY": 28916,
+    "maxY": 29030,
     "minY": 0
   },
   "sys-emissions-co2": {
@@ -164,7 +162,7 @@
       "#92B45C"
     ],
     "unit": "kt",
-    "maxY": 1947663,
+    "maxY": 1857875,
     "minY": 0
   },
   "elc-capacity": {
@@ -224,7 +222,7 @@
       "#1AC9E6"
     ],
     "unit": "PJ",
-    "maxY": 44740,
+    "maxY": 35831,
     "minY": 0
   },
   "elc-generation": {
@@ -255,7 +253,7 @@
       "#1AC9E6"
     ],
     "unit": "PJ",
-    "maxY": 20131,
+    "maxY": 19719,
     "minY": 0
   },
   "sys-costs-lumpy": {
@@ -266,7 +264,7 @@
       "#6BAD60"
     ],
     "unit": "MUSD",
-    "maxY": 1491073,
+    "maxY": 503983,
     "minY": 0
   },
   "elc-capacity-new": {
@@ -274,7 +272,6 @@
       "PRC_ELC_GAS",
       "PRC_ELC_HYD",
       "PRC_ELC_MSW",
-      "PRC_ELC_NUC",
       "PRC_ELC_SPV",
       "PRC_ELC_WNO"
     ],
@@ -282,7 +279,6 @@
       "#C0C0C0",
       "#186BA1",
       "#142458",
-      "#7D39C0",
       "#EABE3B",
       "#1AC9E6"
     ],
